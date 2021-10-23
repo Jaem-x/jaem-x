@@ -17,7 +17,7 @@ La tecnología por sí sola no basta. También tenemos que poner el corazón” 
 
 - 💬 Ask me about ... Apis, pruebas funcionales, pruebas no funciolanes, pruebas UAT y todo lo que tengas duda hacerca de mi trabajo
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... </br>
 Correo:
 Jaem93@hotmail.com
 
@@ -31,10 +31,10 @@ Número Celular:
 - ⚡ Fun facts: ...</br>
 :heart:  Me encanta mi trabajo 💻  </br>
 :heart: Amo mi méxico y solo me falta los estados del norte del país para terminar de conocerlos todos. 🇲🇽 </br>
-✈️ Me gusta viajar, así que podría decir que hoy estoy en algún Estado de México o Fuera de él ✈️ </br>
-✈️ Me gusta viajar de noche para ver el sol ocultarse o en los primero vuelo para ver el amanecer :sunrise: </br>
-🌊 Me gusta el mar y bucear </br>
-🇹🇭 Mi primer viaje fuera de México fue Thailand </br></br>
+✈️       Me gusta viajar, así que podría decir que hoy estoy en algún Estado de México o Fuera de él ✈️ </br>
+✈️       Me gusta viajar de noche para ver el sol ocultarse o en los primero vuelo para ver el amanecer :sunrise: </br>
+🌊      Me gusta el mar y bucear </br>
+🇹🇭      Mi primer viaje fuera de México fue Thailand y fue geeeenial</br></br>
 
 
 My resume Version 1.0
