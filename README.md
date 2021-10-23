@@ -9,7 +9,7 @@ una de mis frases favoritas que me describe en mi trabajo es la siguiente:
 La tecnología por sí sola no basta. También tenemos que poner el corazón” – Jane Goodall
 
 
-- 🔭 I’m currently working on ... Visor ADL acquired by Credijusto
+- 🔭 I’m currently working on ... Visor ADL acquired by Credijusto </br>
 - 🌱 I’m currently learning ... un poco de automatización con python o java solo se lo básico pero lo estudio para que no se me olvide
 
 
