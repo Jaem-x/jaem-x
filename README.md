@@ -9,7 +9,7 @@ una de mis frases favoritas que me describe en mi trabajo es la siguiente:
 La tecnología por sí sola no basta. También tenemos que poner el corazón” – Jane Goodall
 
 
-- 🔭 I’m currently working on ... Visor ADL acquired by Credijusto </br>
+- 🔭 I’m currently working on ... Visor ADL acquired by Credijusto
 - 🌱 I’m currently learning ... un poco de automatización con python o java solo se lo básico pero lo estudio para que no se me olvide
 
 
@@ -28,13 +28,13 @@ Número Celular:
 5576743185
 
 
-- ⚡ Fun facts: ...
-Me encanta mi trabajo 💻 
-Amo mi méxico y solo me falta los estados del norte del país para terminar de conocerlos todos. 🇲🇽
-✈️ Me gusta viajar, así que podría decir que hoy estoy en algún Estado de México o Fuera de él ✈️
-✈️ Me gusta viajar de noche para ver el sol ocultarse o en los primero vuelo para ver el amanecer :sunrise:
-🌊 Me gusta el mar y bucear
-🇹🇭 Mi primer viaje fuera de México fue Thailand
--->
+- ⚡ Fun facts: ...</br>
+:heart:  Me encanta mi trabajo 💻  </br>
+:heart: Amo mi méxico y solo me falta los estados del norte del país para terminar de conocerlos todos. 🇲🇽 </br>
+✈️ Me gusta viajar, así que podría decir que hoy estoy en algún Estado de México o Fuera de él ✈️ </br>
+✈️ Me gusta viajar de noche para ver el sol ocultarse o en los primero vuelo para ver el amanecer :sunrise: </br>
+🌊 Me gusta el mar y bucear </br>
+🇹🇭 Mi primer viaje fuera de México fue Thailand </br></br>
+
 
 My resume Version 1.0
