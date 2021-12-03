@@ -15,7 +15,8 @@ La tecnología por sí sola no basta. También tenemos que poner el corazón” 
 
 - 🤔 I’m looking for help with ... mejorar mis skill y aprender cada día mas cosas de las personas con las que trabajo
 
-- 💬 Ask me about ... Apis, pruebas funcionales, pruebas no funciolanes, pruebas UAT y todo lo que tengas duda hacerca de mi trabajo
+- 💬 Ask me about ... Mi pasíon son las Apis, pruebas funcionales, pruebas no funciolanes, pruebas UAT, Pruebas en la Web, Pruebas en Dispositivos Móviles Si tienes alguna duda o quieres saber un poco mas sobre mi, abajo entraras como buscarme.
+- Ten un buen día
 
 - 📫 How to reach me: ... </br>
 Correo:
@@ -37,4 +38,4 @@ Número Celular:
 🇹🇭      Mi primer viaje fuera de México fue Thailand y fue geeeenial</br></br>
 
 
-My resume Version 1.0
+My resume Version 1.1
