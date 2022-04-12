@@ -37,7 +37,7 @@ Número Celular:
 🌊      Me gusta el mar y bucear </br>
 🇹🇭      Mi primer viaje fuera de México fue Thailand y fue geeeenial</br></br>
 
-<h1 align="center">Hi 👋, I'm Alfonso Estrada Moreno</h1>
+<h1 align="center">Howdy there 👋, I'm Alfonso Estrada Moreno</h1>
 <h3 align="center">A simple person with a passion for APIs</h3>
 
 - 🔭 I’m currently working on **Visor ADL acquired by Credijusto**
@@ -50,8 +50,13 @@ Número Celular:
 
 - 📫 How to reach me **jaem93@hotmail.com**
 
-- 📄 Know about my experiences [6 years of experience as Quality Assurance Enginner *APIs automation expert with Postman *1 Year of automation with Selenium with java. *1 Year of automation with Selenium with Python *Black and white box testing and More more.....](6 years of experience as Quality Assurance Enginner *APIs automation expert with Postman *1 Year of automation with Selenium with java. *1 Year of automation with Selenium with Python *Black and white box testing and More more.....)
-
+- 📄 Know about my experiences
+    6 years of experience as Quality Assurance Enginner 
+    APIs automation expert with Postman 
+    1 Year of automation with Selenium with java. 
+    1 Year of automation with Selenium with Python 
+    Black and white box testing and More more.....
+    
 - ⚡ Fun fact **I like the sea, diving and always ride in the window seat on the plane. And I'm just learning english lenguaje**
 
 <h3 align="left">Connect with me:</h3>
