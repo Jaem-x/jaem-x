@@ -13,7 +13,7 @@
 - 📫 How to reach me **jaem93@hotmail.com** and my Cell phone **5576743185**
 
 - 📄 Know about my experiences
-    6 years of experience as Quality Assurance Enginner 
+    7 years of experience as Quality Assurance Enginner 
     APIs automation expert with Postman 
     1 Year of automation with Selenium with java. 
     1 Year of automation with Selenium with Python 
