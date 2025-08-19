@@ -1,6 +1,9 @@
 <h1 align="center">Howdy there 👋 | ¡Hola! 👋</h1>
 <h3 align="center">Alfonso Estrada Moreno</h3>
 <h4 align="center">Quality Assurance Engineer | Ingeniero de Calidad</h4>
+<p align="center">
+  <img width="1536" height="1024"src="https://github.com/user-attachments/assets/894e073a-a2aa-41d8-ab62-fc2d1925ea87" alt="Alfonso Estrada | QA Engineer" />
+</p>
 
 ---
 
