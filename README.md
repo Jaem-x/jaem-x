@@ -4,12 +4,19 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/QA-Automation-blue?style=for-the-badge&logo=selenium" />
+  <img src="https://img.shields.io/badge/APIs-Postman-orange?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/From-Mexico-green?style=for-the-badge&logo=mx" />
+</p>
+
+---
+
 ## 🌍 English Version  
 
 ### 🚀 About Me
-- 🔭 Currently working on **IA INTERACTIVE**
-- 🔭 Latest work on **IDS/BANAMEX (Bank client)**
-- 🔭 Second-to-last work on **Visor ADL (acquired by COVALTO)**
+- 🔭 Currently working on **Visor ADL (acquired by Credijusto)**
 - 🌱 Learning **JavaScript** & **Appium**
 - 🤝 Open to collaborate on **test automation projects**
 - 💬 Ask me about **APIs, Postman, Selenium, and QA**
@@ -58,12 +65,10 @@
 
 ---
 
-## 🇪🇸 Versión en Español  
+## 🇲🇽 Versión en Español  
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente trabajando en **IA INTERACTIVE**
-- 🔭 Último trabajo en **IDS/BANAMEX (Cliente banco)**
-- 🔭 Penultimo trabajo en **Visor ADL (adquirido por COVALTO)**
+- 🔭 Actualmente trabajando en **Visor ADL (adquirido por Credijusto)**
 - 🌱 Aprendiendo **JavaScript** y **Appium**
 - 🤝 Abierto a colaborar en **proyectos de automatización**
 - 💬 Pregúntame sobre **APIs, Postman, Selenium y QA**
@@ -108,6 +113,14 @@
 ### 🌐 Conecta conmigo
 <p align="left">
 <a href="https://linkedin.com/in/alfonso-estrada-moreno" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+---
+
+📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaem-x&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaem-x&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 ---
