@@ -16,7 +16,9 @@
 ## 🌍 English Version  
 
 ### 🚀 About Me
-- 🔭 Currently working on **Visor ADL (acquired by Credijusto)**
+- 🔭 Currently working on **IA INTERACTIVE**
+- 🔭 Latest work on **IDS/BANAMEX (Bank Client)**
+- 🔭 Third-to-last work on **Visor ADL (acquired by COVALTO)**
 - 🌱 Learning **JavaScript** & **Appium**
 - 🤝 Open to collaborate on **test automation projects**
 - 💬 Ask me about **APIs, Postman, Selenium, and QA**
@@ -68,7 +70,9 @@
 ## 🇲🇽 Versión en Español  
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente trabajando en **Visor ADL (adquirido por Credijusto)**
+- 🔭 Actualmente trabajando para **IA INTERACTIVE**
+- 🔭 último trabajo en **IDS/BANAMEX (Bank Client)**
+- 🔭 Penultimo trabajo en **Visor ADL (acquired by COVALTO)**
 - 🌱 Aprendiendo **JavaScript** y **Appium**
 - 🤝 Abierto a colaborar en **proyectos de automatización**
 - 💬 Pregúntame sobre **APIs, Postman, Selenium y QA**
